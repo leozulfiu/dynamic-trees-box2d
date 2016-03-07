@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="42" height="15" tilewidth="32" tileheight="32" backgroundcolor="#ffffff">
+ <objectgroup name="player" width="42" height="15">
+  <object x="64" y="224" width="32" height="32"/>
+ </objectgroup>
+ <objectgroup color="#000000" name="static" width="42" height="15">
+  <object x="0" y="0" width="1344" height="16"/>
+  <object x="0" y="464" width="1344" height="16"/>
+  <object x="0" y="32" width="32" height="416"/>
+  <object x="1312" y="32" width="32" height="416"/>
+  <object x="1056" y="288" width="16" height="183"/>
+  <object x="1184" y="288" width="19" height="180"/>
+  <object x="1056" y="160" width="256" height="32"/>
+  <object x="736" y="0" width="16" height="192"/>
+  <object x="192" y="224" width="544" height="32"/>
+  <object x="876" y="12" width="11" height="456"/>
+ </objectgroup>
+ <objectgroup color="#a49c41" name="trees" width="42" height="15">
+  <object x="615" y="22">
+   <polyline points="0,0 52,43 46,90 72,101 81,173 56,183"/>
+  </object>
+  <object x="188" y="19">
+   <polyline points="0,0 -25,27 0,58 -11,82"/>
+  </object>
+  <object x="250" y="19">
+   <polyline points="0,0 18,26 12,54 23,79 1,115"/>
+  </object>
+  <object x="371" y="19">
+   <polyline points="0,0 -26,24 -26,52 -8,72 -25,103 -19,121"/>
+  </object>
+  <object x="165" y="461">
+   <polyline points="0,0 -12,-35 6,-43 -3,-72 -12,-105 13,-113 27,-108 31,-119 30,-142"/>
+  </object>
+  <object x="326" y="457">
+   <polyline points="0,0 -7,-11 9,-15 5,-28 -9,-46 2,-60 9,-73 -3,-80 -8,-101 7,-112 3,-128 -8,-143 5,-155"/>
+  </object>
+  <object x="447" y="462">
+   <polyline points="0,0 16,-36 -5,-71 3,-119 -23,-160"/>
+  </object>
+  <object x="250" y="260">
+   <polyline points="0,0 -6,5 -1,12 -8,26 2,40"/>
+  </object>
+  <object x="388" y="258">
+   <polyline points="0,0 5,11 -4,18 -4,46"/>
+  </object>
+  <object x="478" y="219">
+   <polyline points="0,0 -6,-16 1,-28 -12,-76 10,-83 19,-120"/>
+  </object>
+  <object x="298" y="216">
+   <polyline points="0,0 -4,-15 16,-29 12,-61 -18,-75 -43,-61"/>
+  </object>
+  <object x="552" y="463">
+   <polyline points="0,0 -6,-41 14,-66 -8,-104"/>
+  </object>
+  <object x="559" y="258">
+   <polyline points="0,0 4,10 18,25 2,44 11,56"/>
+  </object>
+  <object x="669" y="256">
+   <polyline points="0,0 -11,20 -2,38 -24,62 -15,88 11,116 8,157 -28,173 -53,143 -63,117"/>
+  </object>
+  <object x="739" y="237">
+   <polyline points="0,0 13,-18 43,-32 50,-64 75,-69"/>
+  </object>
+  <object x="875" y="301">
+   <polyline points="0,0 -23,-20 -45,-17 -65,-48 -78,-36"/>
+  </object>
+  <object x="32" y="128">
+   <polyline points="0,0 64,32 96,0 128,32 160,64"/>
+  </object>
+ </objectgroup>
+ <objectgroup color="#0a1fa4" name="teleportations" width="42" height="15">
+  <object x="800" y="64" width="32" height="32">
+   <properties>
+    <property name="color" value="BLACK"/>
+   </properties>
+  </object>
+  <object x="1120" y="416" width="32" height="32">
+   <properties>
+    <property name="color" value="BLACK"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup color="#a6ff00" name="coins" width="42" height="15">
+  <object x="416" y="64" width="32" height="32"/>
+  <object x="608" y="160" width="32" height="32"/>
+  <object x="384" y="384" width="32" height="32"/>
+  <object x="800" y="384" width="32" height="32"/>
+ </objectgroup>
+</map>
