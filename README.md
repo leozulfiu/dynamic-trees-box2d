@@ -14,7 +14,7 @@ You need [gradle](http://gradle.org/) to run the application.
 3. `gradle run`
 
 For creating a jar file just type `gradle build`. You will find the jar in the build/libs/ folder.
-The Start.tmx file is created with [Tiled](http://www.mapeditor.org/). So, you can change the level to your own desires.
+The Start.tmx file is created with [Tiled](http://www.mapeditor.org/). You can change the level to your own desires.
 
 ## License
 
