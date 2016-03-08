@@ -3,6 +3,8 @@
 Inspired by [Badland](https://play.google.com/store/apps/details?id=com.frogmind.badland&hl=de) I created a small
 simulation where I test realistic tree behaviour. RevoluteJoins are used to connect the tree parts.
 
+![Alt text](/screenshots/screenshot.png?raw=true "screenshot")
+
 ## Installation
 
 You need [gradle](http://gradle.org/) to run the application.
