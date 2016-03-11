@@ -2,6 +2,7 @@
 
 Inspired by [Badland](https://play.google.com/store/apps/details?id=com.frogmind.badland&hl=de) I created a small
 simulation where I test realistic tree behaviour. RevoluteJoins are used to connect the tree parts.
+The application is written with [Processing](http://processing.org/) and [Box2D for Processing](https://github.com/shiffman/Box2D-for-Processing)
 
 ![Alt text](/screenshots/screenshot.png?raw=true "screenshot")
 
